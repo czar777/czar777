@@ -22,4 +22,4 @@ A java backend developer from Russia, based in Kazan.
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=cxyfreedom&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="cxyfreedom" /></p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=czar777=default)
