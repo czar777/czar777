@@ -5,7 +5,6 @@ A java backend developer from Russia, based in Kazan.
 ### Visitor count
 <img src="https://profile-counter.glitch.me/czar777/count.svg" />
 
-Here are some [🦜 party parrots](https://cultofthepartyparrot.com):
 
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
