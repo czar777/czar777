@@ -1,6 +1,6 @@
 # Всем привет, Меня зовут Сергей
 
-# Мои проекты:
+Мои проекты:
     [Отправка нотификаций в Telegrma Bot](https://github.com/CorporationX/notification_service/tree/werewolf-master/src/main/java/faang/school/notificationservice/service/notification/telegram)
 
     
