@@ -7,7 +7,7 @@
   ### - Добавление файлов в хранилище Minio (используется Amazon S3 для манипулирования файлами): [link1](https://github.com/CorporationX/project_service/pull/217/files#diff-d9c6e60b7f8197d4324c636c02acb27acb0b1974ce09b99b5f0691c8c281ffff), [link2](https://github.com/CorporationX/project_service/pull/217/files#diff-9b2f9b7a3c5aaac5c54ce29fc3a332cc1285c368bd977e504531c0809cc7de5b)
   ### - [Формирование платежного счета](https://github.com/CorporationX/account_service/blob/werewolf-master/src/main/java/faang/school/accountservice/service/AccountService.java)
 
-
+### dfajds;fldsa. fdsalfasdf
     
 <!---
 ### Visitor count
