@@ -1,6 +1,9 @@
-# Hi, I'm Sergey
+# Всем привет, Меня зовут Сергей
 
-A java backend developer from Russia, based in Kazan.
+Мои проекты:
+    Отправка нотификаций в Telegrma Bot: https://github.com/CorporationX/notification_service/tree/werewolf-master/src/main/java/faang/school/notificationservice/service/notification/telegram
+
+    
 <!---
 ### Visitor count
 <img src="https://profile-counter.glitch.me/czar777/count.svg" />
