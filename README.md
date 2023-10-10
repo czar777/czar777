@@ -1,7 +1,8 @@
-## Всем привет, Меня зовут Сергей
+# Всем привет, Меня зовут Сергей
 
-# Мои проекты:
-  # - [Отправка нотификаций в Telegrma Bot](https://github.com/CorporationX/notification_service/tree/werewolf-master/src/main/java/faang/school/notificationservice/service/notification/telegram)
+## Мои проекты:
+  ## - [Отправка нотификаций в Telegrma Bot](https://github.com/CorporationX/notification_service/tree/werewolf-master/src/main/java/faang/school/notificationservice/service/notification/telegram)
+  ## - Сервис нотификаций: [user service](https://github.com/CorporationX/user_service/blob/werewolf-master/src/main/java/school/faang/user_service/publisher/AbstractEventPublisher.java) публикует событие в [Redis](https://github.com/CorporationX/user_service/blob/werewolf-master/src/main/java/school/faang/user_service/publisher/SkillOfferedEventPublisher.java), notification service потребляет все эти [события из соответствующих очередей](https://github.com/CorporationX/notification_service/blob/werewolf-master/src/main/java/faang/school/notificationservice/listener/SkillOfferListener.java), [обрабатывает](https://github.com/CorporationX/notification_service/blob/werewolf-master/src/main/java/faang/school/notificationservice/listener/AbstractEventListener.java), собирает все необходимые данные для построения тела [нотификации](https://github.com/CorporationX/notification_service/blob/werewolf-master/src/main/java/faang/school/notificationservice/message/SkillOfferMessageBuilder.java), а также контакты получателя, а затем отправляет нотификацию через предпочитаемый получателем способ доставки: Google SMTP (email), Vonage (sms), Telegram.
 
     
 <!---
