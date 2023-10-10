@@ -1,7 +1,7 @@
 # Hi, I'm Sergey
 
 A java backend developer from Russia, based in Kazan.
-*/
+<!---
 ### Visitor count
 <img src="https://profile-counter.glitch.me/czar777/count.svg" />
 
@@ -32,4 +32,4 @@ A java backend developer from Russia, based in Kazan.
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
 </div>
-*/
+-->
